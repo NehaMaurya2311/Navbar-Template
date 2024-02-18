@@ -8,6 +8,7 @@ This repository contains a simple and customizable navigation bar template built
 ## Preview
 
 ![Navbar Template Preview](preview.png)
+🔗 [Live Preview](https://nehamaurya2311.github.io/Navbar-Template/)
 
 ## 🎨 Features
 
